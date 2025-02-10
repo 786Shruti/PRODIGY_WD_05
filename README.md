@@ -1,7 +1,3 @@
-## **Weather App**  
-
-### **GitHub README for Weather App**  
-```md
 # ☀️ Weather App
 
 A real-time **weather app** using the **OpenWeather API**.
